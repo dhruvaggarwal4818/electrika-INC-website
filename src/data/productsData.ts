@@ -89,6 +89,12 @@ export const PRODUCT_CATEGORIES: Category[] = [
         badge: "SOLAR",
         slug: "solar-street-light",
       },
+      {
+        name: "LED Street lights",
+        desc: "Everyday use street lights for highways and roads",
+        src: "/figma_assets/b0376d1f7f9ec104d2d7685e590e7a941912e3ad.png",
+        slug: "led-street-light",
+      },
     ],
   },
   {
